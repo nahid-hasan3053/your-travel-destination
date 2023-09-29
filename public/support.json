@@ -1,0 +1,26 @@
+[
+	{
+        "id": "101",
+        "img": "https://cdn-icons-png.flaticon.com/512/5167/5167651.png",
+		"title": "Best Price Guratee",
+		"description": "A small river named Duden flows by their place and supplies"
+	},
+	{
+        "id": "102",
+        "img": "https://freepngimg.com/thumb/heart/67620-heart-instagram-icons-button-computer-like.png",
+		"title": "Traveller Love Us",
+		"description": "A small river named Duden flows by their place and supplies"
+	},
+	{
+        "id": "103",
+        "img": "https://cdn-icons-png.flaticon.com/512/2268/2268568.png",
+		"title": "Best Travel Guide",
+		"description": "A small river named Duden flows by their place and supplies"
+	},
+	{
+        "id": "104",
+        "img": "https://www.svgrepo.com//show/192522/customer-service-support.svg",
+		"title": "Our Dedicated Support",
+		"description": "A small river named Duden flows by their place and supplies"
+	}
+]
