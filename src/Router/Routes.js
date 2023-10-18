@@ -17,12 +17,12 @@ export const router = createBrowserRouter([
         {
             path: '/allservices',
             element: <AllServices></AllServices>,
-            loader: ()=>fetch('http://localhost:5000/allservices')
+            loader: ()=>fetch('https://travel-destination-server-nahid-hasan3053.vercel.app/allservices')
         },
         {
             path: '/serviceDetails/:id',
             element: <PrivateRoute><ServiceDetails></ServiceDetails></PrivateRoute>,
-            loader: ({params})=> fetch(`http://localhost:5000/service/${params.id}`)
+            loader: ({params})=> fetch(`https://travel-destination-server-nahid-hasan3053.vercel.app/service/${params.id}`)
         },
         {
             path: '/login',
